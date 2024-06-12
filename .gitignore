@@ -3,3 +3,6 @@ models
 temp
 __pycache__
 *.onnx
+*.JPG
+*.jpg
+*.jpeg
